@@ -1,0 +1,9 @@
+{
+    "window.zoomLevel": 1,
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 13,
+    "editor.letterSpacing": 0.4,
+    "editor.fontLigatures": true,
+    "workbench.colorTheme": "Community Material Theme Darker High Contrast",
+    "terminal.integrated.fontSize": 13
+}
